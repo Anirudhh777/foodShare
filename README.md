@@ -1,3 +1,5 @@
+<img src="display.png" align="center" width="75%" height="75%" />
+
 # food
 Ecommerce site where people can cook for strangers at their own places and get paid.
 Customers buy meals as products and pay upfront. Chefs get 90% of the payments.
